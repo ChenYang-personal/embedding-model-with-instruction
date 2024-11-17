@@ -1,6 +1,9 @@
 
 # Embedding Model with Instructions
 
+## Authur
+Zikun Fu, Chen Yang
+
 ## Current Progress
 
 - **Datasets**
